@@ -136,7 +136,7 @@ It transforms static business data into **dynamic, visual insights**, empowering
 
 ## 🙌 Author
 
-**Chawhan Bhoomika**  
-🎓 *BCA / Data Analytics Student*  
+**  Rahul Patnaikuni**  
+🎓 *Btech/EEE/ Data Analytics Student*  
 💼 *Passionate about Business Intelligence and Data Visualization*  
-📧 bhhomikachawhan07@gmail.com
+📧 patnaikunirahul@gmail.com
